@@ -1,9 +1,0 @@
-0: biluochun_lvcha 
-1: jinjunmei_hongcha 
-2: tieguanyin_qingcha 
-3: gongmei_baicha 
-4: molihuacha 
-5: gaoshanlvcha_lvcha 
-6: zhengshanxiaopin_hongcha 
-7: shuixiancha_qingcha 
-8: shuimeibai_baicha
